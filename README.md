@@ -76,7 +76,7 @@ Response:
 [
   {
     "id": 1,
-    "name": "Chocolate Cake",
+    "name": "Cake",
     "description": "Rich chocolate layer cake with ganache",
     "price": 29.99,
     "image_url": "chocolate_cake.jpg"
@@ -125,7 +125,7 @@ Response:
   "created_at": "2023-04-02 15:30:45",
   "items": [
     {
-      "product_name": "Chocolate Cake",
+      "product_name": "Cake",
       "quantity": 2,
       "unit_price": 29.99,
       "total": 59.98
